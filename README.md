@@ -1,7 +1,6 @@
 # COMP1531 Major Project
-
-A video describing this project and the background here can be found here.
-
+Software engineering fundamental
+September - December 2019
 ## Aims:
 
 * To provide students with hands on experience testing, developing, and maintaining a backend server in python.
